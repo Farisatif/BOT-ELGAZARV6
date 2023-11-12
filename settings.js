@@ -15,22 +15,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-عالمي . المالك  = [ '967774307205' ] // رقم مالكك
+عالمي . المالك  = [ '967778088098' ] // رقم مالكك
 عالمي . ownername  =  "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️"  // اسم المالك الخاص بك
 global.ytname = "YT: ELGAZAR" //ur yt chanel name
 global.socialm = "GitHub: ELGAZAR" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-عالمي . ownernomer  =  "967774307205"  // رقمك
-عالمي . premium  = [ '967774307205' ] // الرقم المميز الخاص بك
+عالمي . ownernomer  =  "967778088098"  // رقمك
+عالمي . premium  = [ '967778088098' ] // الرقم المميز الخاص بك
 global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
 global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
 global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-عالمي . المؤلف  =  "⍣967774307205⍣"  // مؤلف العلامة المائية للملصق الخاص بك
+عالمي . المؤلف  =  "⍣967778088098⍣"  // مؤلف العلامة المائية للملصق الخاص بك
 global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
 
 // Other
